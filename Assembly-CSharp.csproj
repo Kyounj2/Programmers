@@ -60,6 +60,7 @@
     <Compile Include="Assets\짝수와 홀수.cs" />
     <Compile Include="Assets\약수의 합.cs" />
     <Compile Include="Assets\자릿수 더하기.cs" />
+    <Compile Include="Assets\자연수 뒤집어 배열로 만들기.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
