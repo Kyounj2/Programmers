@@ -56,11 +56,12 @@
     <Analyzer Include="C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\평균구하기.cs" />
-    <Compile Include="Assets\짝수와 홀수.cs" />
     <Compile Include="Assets\약수의 합.cs" />
+    <Compile Include="Assets\평균구하기.cs" />
     <Compile Include="Assets\자릿수 더하기.cs" />
     <Compile Include="Assets\자연수 뒤집어 배열로 만들기.cs" />
+    <Compile Include="Assets\짝수와 홀수.cs" />
+    <Compile Include="Assets\정수 제곱근 판별.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
