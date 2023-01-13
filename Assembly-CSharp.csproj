@@ -63,6 +63,7 @@
     <Compile Include="Assets\짝수와 홀수.cs" />
     <Compile Include="Assets\정수 제곱근 판별.cs" />
     <Compile Include="Assets\x만큼 간격이 있는 n개의 숫자.cs" />
+    <Compile Include="Assets\문자열을 정수로 바꾸기.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
